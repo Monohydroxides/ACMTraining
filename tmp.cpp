@@ -43,7 +43,7 @@ void modifyCommand (string cmd) {
                 return;
             }
             commandType.pop();
-        } else if (cmd[2] == 'i' && cmd[3] == 'm') {
+        } else if (cmd[2] == 'i' && cmd[3] == 'm') { 
             if (commandType.top() != commandMap["[img]"]) {
                 errorCode = 1;
                 return;
