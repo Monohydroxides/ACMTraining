@@ -1,0 +1,1 @@
+{"name":"Local: B","url":"d:\\ACM\\CodeForces\\Codeforces Round #789 (Div. 2)\\B.cpp","tests":[{"id":1652021147258,"input":"5\n10\n1110011000\n8\n11001111\n2\n00\n2\n11\n6\n100110","output":"3\n0\n0\n0\n3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\ACM\\CodeForces\\Codeforces Round #789 (Div. 2)\\B.cpp","group":"local","local":true}

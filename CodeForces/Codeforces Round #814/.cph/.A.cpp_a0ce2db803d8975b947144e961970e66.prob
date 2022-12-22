@@ -1,0 +1,1 @@
+{"name":"Local: A","url":"d:\\ACM\\CodeForces\\Codeforces Round #814\\A.cpp","tests":[{"id":1660660410547,"input":"6\n1 1\n1 4\n5 6\n2 2\n6 3\n999999999 1000000000\n","output":"Tonya\nBurenka\nBurenka\nTonya\nBurenka\nBurenka\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\ACM\\CodeForces\\Codeforces Round #814\\A.cpp","group":"local","local":true}
