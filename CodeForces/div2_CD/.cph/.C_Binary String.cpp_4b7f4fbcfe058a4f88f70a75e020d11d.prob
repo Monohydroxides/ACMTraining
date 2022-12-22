@@ -1,1 +1,0 @@
-{"name":"Local: C_Binary String","url":"d:\\ACM\\CodeForces\\div2_CD\\C_Binary String.cpp","tests":[{"id":1652516194667,"input":"5\n101110110\n1001001001001\n0000111111\n00000\n1111\n","output":"1\n3\n0\n0\n0\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\ACM\\CodeForces\\div2_CD\\C_Binary String.cpp","group":"local","local":true}

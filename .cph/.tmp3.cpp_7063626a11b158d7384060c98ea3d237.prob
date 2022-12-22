@@ -1,1 +1,0 @@
-{"name":"Local: tmp3","url":"d:\\ACM\\tmp3.cpp","tests":[{"id":1660811019999,"input":"1 2 5 10 2\n3 2 3 1 10\n1000 2 2 2 900","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\ACM\\tmp3.cpp","group":"local","local":true}

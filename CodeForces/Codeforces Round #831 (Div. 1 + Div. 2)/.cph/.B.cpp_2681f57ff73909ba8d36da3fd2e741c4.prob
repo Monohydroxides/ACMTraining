@@ -1,1 +1,0 @@
-{"name":"Local: B","url":"d:\\ACM\\CodeForces\\Codeforces Round #831 (Div. 1 + Div. 2)\\B.cpp","tests":[{"id":1667034081043,"input":"3\n4\n4 1\n4 5\n1 1\n2 3\n3\n2 4\n2 6\n2 3\n1\n2 65","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\ACM\\CodeForces\\Codeforces Round #831 (Div. 1 + Div. 2)\\B.cpp","group":"local","local":true}

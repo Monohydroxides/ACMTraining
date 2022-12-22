@@ -1,1 +1,0 @@
-{"name":"Local: E","url":"d:\\ACM\\CodeForces\\Codeforces Round #787 (Div. 3)\\E.cpp","tests":[{"id":1651766580429,"input":"4\n3 2\ncba\n4 5\nfgde\n7 5\ngndcafb\n4 19\nekyv","output":"aaa\nagaa\nbnbbabb\naapp"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\ACM\\CodeForces\\Codeforces Round #787 (Div. 3)\\E.cpp","group":"local","local":true}
