@@ -67,7 +67,6 @@ void work () {
     int ret = gauss(mat);
     if (ret == -1) {
         cout << "Oh,it's impossible~!!\n";
-        return;
     }
     cout << (int) pow(2, ret) << '\n';
 }
