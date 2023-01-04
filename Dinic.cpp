@@ -64,9 +64,9 @@ class Flow {
             }
         }
         
-        void addEdge (int a, int b, int c) {
+        void addEdge (int a, int b, T c, T d = 0) {
             add(a, b, c);
-            add(b, a, 0);
+            add(b, a, d);
         }
 
         T dinic () {
